@@ -1,0 +1,2 @@
+this is practice for working on git with the Odin Project. More good stuff to come arouns the
+corner. Practice makes perfect
